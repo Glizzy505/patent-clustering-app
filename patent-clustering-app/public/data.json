@@ -1,0 +1,35 @@
+[
+  {
+    "id": "US9876543",
+    "title": "Wearable textile sensor for monitoring vital signs",
+    "abstract": "This invention describes a flexible sensor embedded in textile...",
+    "keywords": ["sensor", "textile", "vital signs", "wearable", "biometric"],
+    "cluster": "Health Monitoring",
+    "cluster_id": 3,
+    "year": 2021,
+    "country": "US",
+    "similarity_vector": [0.12, 0.78, 0.34, 0.56, 0.23]
+  },
+  {
+    "id": "EP1234567",
+    "title": "Conductive fabric for wearable electronics",
+    "abstract": "A fabric with embedded conductive threads for circuits...",
+    "keywords": ["conductive", "fabric", "wearable", "electronics"],
+    "cluster": "Wearable Electronics",
+    "cluster_id": 1,
+    "year": 2020,
+    "country": "EP",
+    "similarity_vector": [0.45, 0.67, 0.12, 0.89, 0.34]
+  },
+  {
+    "id": "WO20210001",
+    "title": "Thermal-regulating smart clothing",
+    "abstract": "Smart clothing with thermal regulation capabilities...",
+    "keywords": ["thermal", "wearable", "smart clothing"],
+    "cluster": "Health Monitoring",
+    "cluster_id": 3,
+    "year": 2022,
+    "country": "WO",
+    "similarity_vector": [0.22, 0.81, 0.44, 0.66, 0.28]
+  }
+]
