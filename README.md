@@ -1,61 +1,47 @@
-# Patent Clustering APP
+# Patent Clustering App
 
-This is an interactive web application for visualizing and analyzing patent document clusters using advanced machine learning and NLP techniques. Users can upload patent data, view keyword groupings, and explore clusters through an intuitive dashboard.
+## Building / Running
 
-## 🚀 Features
-- Upload and visualize patent abstracts
-- Cluster documents by semantic similarity
-- Interactive keyword and cluster display
-- Clean and responsive React UI using Vite
-
-## 🛠 Tech Stack
-- Vite + React
-- JavaScript (ES6+), JSX
-- JSON (for sample patent data)
-- Tailwind CSS (or your custom styling)
-- Context API for theme management
-
-## 🧪 Setup Instructions
-
-1. **Clone the repo**
+1. **Clone the repository**
    ```bash
    git clone https://github.com/your-username/patent-clustering-app.git
    cd patent-clustering-app
-   ```
+````
 
 2. **Install dependencies**
+
    ```bash
    npm install
    ```
 
 3. **Run the development server**
+
    ```bash
    npm run dev
    ```
 
 4. **Build for production**
+
    ```bash
    npm run build
    ```
 
-## 📁 Project Structure
-```
-📦 patent-clustering-app
-├── public/             # Static files (data.json, logos, etc.)
-├── src/                # React components and styles
-│   ├── components/     # Upload, Dashboard, Keywords, etc.
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── ThemeContext.jsx
-├── index.html
-├── package.json
-├── vite.config.js
-└── README.md
-```
+## Usage
 
-## 📄 License
-MIT License
+This web app enables users to upload and analyze patent abstracts. After upload, it uses clustering algorithms to group patents by similar content and visualizes key insights such as keyword distributions and cluster relationships.
 
-## ✨ Author
-**Glizzy**  
-[GitHub Profile](https://github.com/Glizzy505)
+Features:
+
+* Upload and visualize patent abstracts
+* Cluster patents by content similarity
+* Explore keyword groupings
+* Interactive and responsive dashboard
+
+## License
+
+This project is licensed under the MIT License.
+
+---
+
+Glizzy
+
